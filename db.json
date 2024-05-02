@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "study different topics on JavaScript",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "study different topics on React",
+      "completed": false
+    },
+    {
+      "title": "Start learning TypeScript",
+      "completed": false,
+      "id": "3"
+    },
+    {
+      "id": "473c",
+      "title": "start learning German",
+      "completed": true
+    },
+    {
+      "id": "c7d3",
+      "title": "Учить новые английские слова ",
+      "completed": true
+    },
+    {
+      "id": "f594",
+      "title": "Учить React JSX и JavaScript",
+      "completed": false
+    },
+    {
+      "title": "Start learning React every day",
+      "completed": false,
+      "id": "K8cGQxw"
+    },
+    {
+      "title": "Studing English",
+      "completed": true,
+      "id": "FsymbfR"
+    },
+    {
+      "title": "The New Task for Mondey",
+      "completed": false,
+      "id": "cv4de53"
+    },
+    {
+      "title": "Позвонить маме",
+      "completed": false,
+      "id": "lUNnXF5"
+    }
+  ]
+}

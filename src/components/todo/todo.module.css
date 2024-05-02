@@ -1,0 +1,95 @@
+.todo {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 5px 20px;
+	margin: 20px 0;
+	font-size: 22px;
+	/* font-weight: bold; */
+	border-radius: 5px;
+	border: 1px solid violet;
+	box-shadow: 3px 1px 3px rgb(57, 54, 68);
+
+	background-color: rgb(130, 76, 136);
+	color: white;
+	color: yellow;
+	border: none;
+}
+
+.title {
+	width: 100%;
+	text-align: left;
+}
+
+input{
+	font-size: 18px;
+	padding: 6px;
+	width: 90%;
+	color: rgb(37, 107, 204);
+	background-color: azure;
+	border-radius: 5px;
+	border: none;
+	padding-left: 12px;
+}
+
+.todoIcon {
+	font-size: 32px;
+	margin-right: 10px;
+	color: rgb(5, 246, 242);
+}
+
+.todo.completedTodo {
+	background-color:rgb(189, 246, 114);
+	border-color: rgb(169, 95, 5);
+	color: rgb(69, 144, 210);
+
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.todo.completedTodo .todoIcon {
+	color: rgb(212, 153, 232);
+}
+/*  */
+/* .deleteIcon { */
+	/* cursor: pointer; */
+	/* color: whitesmoke; */
+	/* font-size: 24px; */
+	/* transition: transform 0.5s; */
+/* } */
+
+
+/* .deleteIcon:hover { */
+	/* cursor: pointer; */
+	/* transform: scale(1.1); */
+	/* color: red; */
+/* } */
+
+
+/* .todo.completedTodo .deleteIcon {
+	color: skyblue; */
+
+/* .todo.completedTodo .deleteIcon:hover {
+	color: yellow;
+} */
+
+
+
+
+
+/* .deleteIcon:hover {
+	color: red;
+} */
+
+.checkbox {
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+	/* margin: 0 10px 0 0; */
+	display: flex;
+	text-align: center;
+	align-items: center;
+	border: none;
+	border-radius: 8px;
+	/* box-shadow: 2px 1px 2px darkslategrey; */
+}
